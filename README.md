@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋
+
+I am Hassan, a college programmer, experienced in multiple programming languages and hardware implementation. Seeking to utilize these developed skills for the advancement of individuals, research, and products.
 
 <!--
 **hassanfarescodes/hassanfarescodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
