@@ -11,6 +11,6 @@ I am Hassan, a college programmer, experienced in multiple programming languages
 
 
 # 👾 Stats:
-[![](https://visitcount.itsvg.in/api?id=hassanfarescodes&icon=1&color=5)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=hassanfarescodes&icon=1&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
