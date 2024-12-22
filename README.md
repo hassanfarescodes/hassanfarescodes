@@ -1,5 +1,5 @@
 # Hello World! 👋
-I am Hassan, a college programmer, experienced in multiple programming languages and hardware implementation. Seeking to utilize these developed skills for the advancement of individuals, research, and products.
+I am Hassan, a college programmer and security researcher, experienced in multiple programming languages and hardware implementation. Seeking to utilize these developed skills for the advancement of individuals, research, and products.
 
 
 ## 🌐 Social Media:
