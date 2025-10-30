@@ -1,5 +1,9 @@
 # Hello World! 👋
-I am Hassan, a college programmer and security researcher, experienced in multiple programming languages and hardware implementation. Seeking to utilize these developed skills for the advancement of individuals, research, and products. Proud President of GopherHack (UMN's ethical hacking club).
+I am Hassan, a college programmer and security researcher
+
+Proud President of GopherHack (UMN's ethical hacking club)
+
+I speak fluent segfault
 
 
 ## 🌐 Social Media:
