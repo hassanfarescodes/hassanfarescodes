@@ -3,7 +3,7 @@ I am Hassan, a college programmer and security researcher
 
 Proud President of GopherHack (UMN's ethical hacking club)
 
-I speak fluent segfault
+I speak fluent segfault 🥴
 
 
 ## 🌐 Social Media:
