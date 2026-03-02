@@ -14,5 +14,5 @@ I speak fluent segfault 🥴
 ![Assembly](https://img.shields.io/badge/Assembly-%236F4C3E.svg?style=flat-square&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&labelColor=306998&logo=python&logoColor=FFD43B)<br>
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&labelColor=00FF00)<br>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&labelColor=00FF00&logo=hackthebox&logoColor=white)<br>
 ![SIGINT](https://img.shields.io/badge/SIGINT-signals%20intelligence-0033A0?style=flat-square)
